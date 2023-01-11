@@ -1,0 +1,8 @@
+{
+  "name": "node-random-color-gen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AramW/node-random-color-gen.git",
+  "author": "Aram Weber <tidus.zakk@gmail.com>",
+  "license": "MIT"
+}
