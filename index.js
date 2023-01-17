@@ -1,4 +1,4 @@
-// random Color not found?
+// random Color not found?//
 const randomColor = require('randomColor');
 const chalk = require('chalk');
 const color = randomColor({
